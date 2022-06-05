@@ -1,0 +1,28 @@
+.calc-table {
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 200px;
+    background: linear-gradient(to right, rgb(170, 170, 184), rgb(95, 156, 95));
+}
+
+.result-input {
+    border: 5px solid green;
+    background-color: antiquewhite;
+    width: 340px;
+    height: 80px;
+    position: absolute;
+    left: 207px;
+    top: 111px;
+    font-size: 40px;
+    text-align: end;
+    color: rgb(233, 215, 215)
+}
+
+.button {
+    width: 60px;
+    height: 60px;
+    padding: 40px;
+    font-size: 30px;
+    cursor: pointer;
+    margin: 0 auto;
+}
